@@ -4,7 +4,7 @@ Donate link: https://www.tipsandtricks-hq.com/software-license-manager-plugin-fo
 Tags: license key, serial key, manager, license, serial, key, selling, sell, license activation, manage license, software license, software license manager
 Requires at least: 3.0
 Tested up to: 4.2
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2 or later
 
 Create and manage license keys for your software applications easily
@@ -27,6 +27,9 @@ You can also create license keys manually from the admin dashboard of this plugi
 
 Check [license manager documentation](https://www.tipsandtricks-hq.com/software-license-manager-plugin-for-wordpress) to learn more.
 
+= Integration with WP eStore =
+Check [WP eStore integration documentation](https://www.tipsandtricks-hq.com/ecommerce/integrate-wp-estore-with-software-license-manager-plugin-3731)
+
 == Installation ==
 
 1. Go to the Add New plugins screen in your WordPress admin area
@@ -42,6 +45,11 @@ See the following page:
 https://www.tipsandtricks-hq.com/software-license-manager-plugin-for-wordpress
 
 == Changelog ==
+
+= 1.6 =
+* Updated the sample plugin code so the query works better.
+* Added the ability to reset the debug log file from the plugin settings interface.
+* The item_reference value will be stored in the database (if sent via the activation API query).
 
 = 1.5 =
 * Added the option to search a license key from the manage licenses interface.
