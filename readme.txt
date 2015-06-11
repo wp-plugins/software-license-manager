@@ -45,7 +45,6 @@ See the following page:
 https://www.tipsandtricks-hq.com/software-license-manager-plugin-for-wordpress
 
 == Changelog ==
-
 = 1.6 =
 * Updated the sample plugin code so the query works better.
 * Added the ability to reset the debug log file from the plugin settings interface.
