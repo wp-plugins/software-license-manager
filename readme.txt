@@ -45,7 +45,6 @@ See the following page:
 https://www.tipsandtricks-hq.com/software-license-manager-plugin-for-wordpress
 
 == Changelog ==
-
 = 1.7 =
 * The license key is also included with the response sent to the new license creation request. Below is an example response:
 {"result":"success","message":"License successfully created","key":"5580effe188d3"}
